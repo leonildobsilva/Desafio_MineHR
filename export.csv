@@ -1,0 +1,117 @@
+mes_referencia,Id_funcionario,data_de_nascimento,data_de_admissao,data_de_demissao,grau_de_instrucao,cargo,salario,admitido_no_mes,demitido_no_mes,idade,escolaridade_categorizada,tempo_de_empresa,mudou_de_salario,mudou_de_cargo
+2020-01-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,50,1,1
+2020-01-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,19,1,1
+2020-01-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1400,0,0,60,Ensino Médio Completo,214,1,1
+2020-01-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,11,1,1
+2020-01-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,11800,0,0,27,Ensino Superior Completo,92,1,1
+2020-01-01,12345,1980-11-02,1800-01-01,null,Ensino Fundamental Completo,Operador De Colheita Ii,1800,0,0,39,Ensino Fundamental Completo,0,1,1
+2020-01-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,11500,0,0,19,Mestrado,-4,1,1
+2020-01-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,253,1,1
+2020-01-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1625,0,0,43,Ensino Médio Incompleto,171,1,1
+2020-01-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Pleno,7500,0,0,48,Ensino Superior Completo,121,1,1
+2020-02-01,24457,2000-07-26,1800-01-01,null,Mestrado,Gerente De Produção,11500,0,0,20,Mestrado,0,0,0
+2020-02-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Pleno,7500,0,0,48,Ensino Superior Completo,122,0,0
+2020-02-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,51,0,0
+2020-02-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,12,0,0
+2020-02-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,11800,0,0,27,Ensino Superior Completo,93,0,0
+2020-02-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,20,0,0
+2020-02-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,254,0,0
+2020-02-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1800,0,0,39,Ensino Fundamental Completo,116,0,0
+2020-02-01,13254,1800-01-01,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1625,0,0,0,Ensino Médio Incompleto,172,0,0
+2020-02-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1400,0,0,60,Ensino Médio Completo,215,0,0
+2020-03-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,52,0,0
+2020-03-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,11800,0,0,27,Ensino Superior Completo,94,0,0
+2020-03-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1800,0,0,39,Ensino Fundamental Completo,117,0,0
+2020-03-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1625,0,0,43,Ensino Médio Incompleto,173,0,0
+2020-03-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,11500,0,0,20,Mestrado,-2,0,0
+2020-03-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,21,0,0
+2020-03-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,255,0,0
+2020-03-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Pleno,7500,0,0,48,Ensino Superior Completo,123,0,0
+2020-03-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1400,0,0,60,Ensino Médio Completo,216,0,0
+2020-03-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,13,0,0
+2020-04-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1400,0,0,60,Ensino Médio Completo,217,0,0
+2020-04-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,256,0,0
+2020-04-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,22,0,0
+2020-04-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1625,0,0,43,Ensino Médio Incompleto,174,0,0
+2020-04-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,11500,0,0,20,Mestrado,-1,0,0
+2020-04-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Pleno,7500,0,0,48,Ensino Superior Completo,124,0,0
+2020-04-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,53,0,0
+2020-04-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,14,0,0
+2020-04-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1800,0,0,39,Ensino Fundamental Completo,118,0,0
+2020-04-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,11800,0,0,27,Ensino Superior Completo,95,0,0
+2020-05-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1950,0,0,40,Ensino Fundamental Completo,119,1,0
+2020-05-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1400,0,0,60,Ensino Médio Completo,218,0,0
+2020-05-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,15,0,0
+2020-05-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1625,0,0,43,Ensino Médio Incompleto,175,0,0
+2020-05-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,11500,1,0,20,Mestrado,0,0,0
+2020-05-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,257,0,0
+2020-05-01,46578,1800-01-01,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Pleno,7500,0,0,0,Ensino Superior Completo,125,0,0
+2020-05-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,11800,0,0,27,Ensino Superior Completo,96,0,0
+2020-05-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,54,0,0
+2020-05-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,23,0,0
+2020-06-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,24,0,0
+2020-06-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,12500,0,0,27,Ensino Superior Completo,97,1,0
+2020-06-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1950,0,0,40,Ensino Fundamental Completo,120,0,0
+2020-06-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1400,0,0,60,Ensino Médio Completo,219,0,0
+2020-06-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,48,Ensino Superior Completo,126,1,1
+2020-06-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,55,0,0
+2020-06-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,16,0,0
+2020-06-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,258,0,0
+2020-06-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1625,0,0,43,Ensino Médio Incompleto,176,0,0
+2020-06-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,0,1,0
+2020-07-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,1,0,0
+2020-07-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,259,0,0
+2020-07-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,49,Ensino Superior Completo,127,0,0
+2020-07-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,25,0,0
+2020-07-01,57687,1991-05-28,2015-10-18,null,Doutorado,Cientista De Dados,7200,0,0,29,Doutorado,56,0,0
+2020-07-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1400,0,0,22,Ensino Médio Completo,17,0,0
+2020-07-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1750,0,0,43,Ensino Médio Incompleto,177,1,0
+2020-07-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1950,0,0,40,Ensino Fundamental Completo,121,0,0
+2020-07-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,12500,0,0,27,Ensino Superior Completo,98,0,0
+2020-07-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1520,0,0,60,Ensino Médio Completo,220,1,0
+2020-07-01,12345,1800-01-01,1800-01-01,null,Ensino Fundamental Completo,Operador De Colheita Ii,1950,0,0,0,Ensino Fundamental Completo,0,0,0
+2020-08-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1750,0,0,43,Ensino Médio Incompleto,178,0,0
+2020-08-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1520,0,0,60,Ensino Médio Completo,221,0,0
+2020-08-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,2,0,0
+2020-08-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1520,0,0,22,Ensino Médio Completo,18,1,0
+2020-08-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,38,Pós Graduação,260,0,0
+2020-08-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,49,Ensino Superior Completo,128,0,0
+2020-08-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,12500,0,0,27,Ensino Superior Completo,99,0,0
+2020-08-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1950,0,0,40,Ensino Fundamental Completo,122,0,0
+2020-08-01,57687,1991-05-28,1800-01-01,2020-08-15,Doutorado,Cientista De Dados,7200,0,1,29,Doutorado,0,0,0
+2020-08-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita I,1500,0,0,25,Ensino Fundamental Incompleto,26,0,0
+2020-09-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1520,0,0,61,Ensino Médio Completo,222,0,0
+2020-09-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,3,0,0
+2020-09-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,49,Ensino Superior Completo,129,0,0
+2020-09-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,5900,0,0,39,Pós Graduação,261,0,0
+2020-09-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1520,0,0,22,Ensino Médio Completo,19,0,0
+2020-09-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1750,0,0,43,Ensino Médio Incompleto,179,0,0
+2020-09-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita Ii,1750,0,0,25,Ensino Fundamental Incompleto,27,1,1
+2020-09-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,12500,0,0,27,Ensino Superior Completo,100,0,0
+2020-09-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,1950,0,0,40,Ensino Fundamental Completo,123,0,0
+2020-10-01,12345,1980-11-02,2010-05-24,null,Ensino Fundamental Completo,Operador De Colheita Ii,2200,0,0,40,Ensino Fundamental Completo,124,1,0
+2020-10-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1750,0,0,43,Ensino Médio Incompleto,180,0,0
+2020-10-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1520,0,0,61,Ensino Médio Completo,223,0,0
+2020-10-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,4,0,0
+2020-10-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,12500,0,0,27,Ensino Superior Completo,101,0,0
+2020-10-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita Ii,1750,0,0,26,Ensino Fundamental Incompleto,28,0,0
+2020-10-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1520,0,0,22,Ensino Médio Completo,20,0,0
+2020-10-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,6750,0,0,39,Pós Graduação,262,1,0
+2020-10-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,49,Ensino Superior Completo,130,0,0
+2020-11-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1520,0,0,61,Ensino Médio Completo,224,0,0
+2020-11-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita Ii,1750,0,0,26,Ensino Fundamental Incompleto,29,0,0
+2020-11-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,6750,0,0,39,Pós Graduação,263,0,0
+2020-11-01,12345,1980-11-02,2010-05-24,2020-11-10,Ensino Fundamental Completo,Operador De Colheita Ii,2200,0,1,40,Ensino Fundamental Completo,125,0,0
+2020-11-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,49,Ensino Superior Completo,131,0,0
+2020-11-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,0,0,0,28,Ensino Superior Completo,102,1,0
+2020-11-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1750,0,0,43,Ensino Médio Incompleto,181,0,0
+2020-11-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1520,0,0,22,Ensino Médio Completo,21,0,0
+2020-11-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,5,0,0
+2020-12-01,11223,1995-04-01,2018-06-01,null,4ª Série Completo,Operador De Colheita Ii,1750,0,0,26,Ensino Fundamental Incompleto,30,0,0
+2020-12-01,13254,1977-05-22,2005-09-03,null,Ensino Medio Incompleto,Operador De Colheita I,1750,0,0,44,Ensino Médio Incompleto,182,0,0
+2020-12-01,13456,1960-03-05,2002-02-11,null,Ensino Médio Comp,Assistente De Rh,1520,0,0,61,Ensino Médio Completo,225,0,0
+2020-12-01,24457,2000-07-26,2020-05-10,null,Mestrado,Gerente De Produção,12100,0,0,20,Mestrado,6,0,0
+2020-12-01,46457,1982-02-12,1998-11-07,null,Pós Graduação,Analista De Bi,6750,0,0,39,Pós Graduação,264,0,0
+2020-12-01,46578,1972-01-11,2009-11-26,null,Ensino Superior Completo,Analista De Sistemas Senior,8300,0,0,49,Ensino Superior Completo,132,0,0
+2020-12-01,95847,1993-04-23,2012-04-25,null,Graduação,Líder De Tecnologia,12500,0,0,28,Ensino Superior Completo,103,0,0
+2020-12-01,59393,1998-05-17,2019-01-08,null,Ensino Médio Completo,Assistente Administrativo,1520,0,0,23,Ensino Médio Completo,22,0,0

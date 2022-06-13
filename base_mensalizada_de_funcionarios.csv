@@ -1,0 +1,122 @@
+﻿mes_referencia;id_funcionario;data_de_nascimento;data_de_admissao;data_de_demissao;grau_de_instrucao;cargo;salario
+01/01/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/01/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/01/2020;12345;02/11/1980;;;ensino fundamental completo;operador de colheita II;1800
+01/01/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;11500
+01/01/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/01/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/01/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas pleno;7500
+01/01/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas pleno;7500
+01/01/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/01/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;11800
+01/01/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/02/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/02/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/02/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1800
+01/02/2020;24457;26/07/2000;;;mestrado;gerente de produção;11500
+01/02/2020;13254;;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/02/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/02/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas pleno;7500
+01/02/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/02/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;11800
+01/02/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/03/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/03/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/03/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1800
+01/03/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;11500
+01/03/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/03/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/03/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas pleno;7500
+01/03/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/03/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;11800
+01/03/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/04/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/04/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/04/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/04/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1800
+01/04/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;11500
+01/04/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/04/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/04/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas pleno;7500
+01/04/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/04/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;11800
+01/04/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/05/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/05/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/05/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1950
+01/05/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;11500
+01/05/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/05/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/05/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/05/2020;46578;;26/11/2009;;ensino superior completo;analista de sistemas pleno;7500
+01/05/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/05/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;11800
+01/05/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/06/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/06/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1400
+01/06/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1950
+01/06/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/06/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1625
+01/06/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/06/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/06/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/06/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;12500
+01/06/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/06/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/07/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/07/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1520
+01/07/2020;12345;;;;ensino fundamental completo;operador de colheita II;1950
+01/07/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1950
+01/07/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/07/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1750
+01/07/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/07/2020;57687;28/05/1991;18/10/2015;;doutorado;cientista de dados;7200
+01/07/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/07/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1400
+01/07/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;12500
+01/07/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/08/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita I;1500
+01/08/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1520
+01/08/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1950
+01/08/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/08/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1750
+01/08/2020;57687;28/05/1991;;15/08/2020;doutorado;cientista de dados;7200
+01/08/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/08/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1520
+01/08/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;12500
+01/08/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/09/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita II;1750
+01/09/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1520
+01/09/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;1950
+01/09/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/09/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1750
+01/09/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/09/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1520
+01/09/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;12500
+01/09/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;5900
+01/10/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita II;1750
+01/10/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1520
+01/10/2020;12345;02/11/1980;24/05/2010;;ensino fundamental completo;operador de colheita II;2200
+01/10/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/10/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1750
+01/10/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/10/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1520
+01/10/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;12500
+01/10/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;6750
+01/11/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita II;1750
+01/11/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1520
+01/11/2020;12345;02/11/1980;24/05/2010;10/11/2020;ensino fundamental completo;operador de colheita II;2200
+01/11/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/11/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1750
+01/11/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/11/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1520
+01/11/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;O líder de tecnologia é uma pessoa maravilhosa, sempre muito atencioso com a equipe e claro em suas expectativas.
+01/11/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;6750
+01/12/2020;11223;01/04/1995;01/06/2018;;4ª série completo;operador de colheita II;1750
+01/12/2020;13456;05/03/1960;11/02/2002;;ensino médio comp;assistente de rh;1520
+01/12/2020;24457;26/07/2000;10/05/2020;;mestrado;gerente de produção;12100
+01/12/2020;13254;22/05/1977;03/09/2005;;ensino medio incompleto;operador de colheita I;1750
+01/12/2020;46578;11/01/1972;26/11/2009;;ensino superior completo;analista de sistemas senior;8300
+01/12/2020;59393;17/05/1998;08/01/2019;;ensino médio completo;assistente administrativo;1520
+01/12/2020;95847;23/04/1993;25/04/2012;;graduação;líder de tecnologia;12500
+01/12/2020;46457;12/02/1982;07/11/1998;;pós graduação;analista de BI;6750
